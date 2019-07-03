@@ -1,0 +1,6 @@
+framework module Pods_TaskRUITests {
+  umbrella header "Pods-TaskRUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
